@@ -101,10 +101,10 @@ Aug, 2020 – Mar, 2022
 
 > BISE -Nawabshah
 
-**Silver** **Medal** **In** **Physics** **Science** **Exhibition**
+> Silver** **Medal** **In** **Physics** **Science** **Exhibition**
 **2021** 2021
 
-**2nd** **Position** **in** **Nawabshah** **Division** **(**Intermediate
+> 2nd** **Position** **in** **Nawabshah** **Division** **(**Intermediate
 and Secondary 2022 Education
 
 **Selected** **Blogs**
