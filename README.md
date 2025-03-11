@@ -24,8 +24,8 @@
  **Education**
 
 > **FAST** **National** **University** **of** **Computer&** **Emerging**
-> **Science,** *B.S* *Computer* *Science* **Paras** **Science**
-**Collage** **Kandiaro** **Sindh,** *F.* *Sc* *in* *Pre-Engineering*
+> **Science,** *B.S* *Computer* *Science*
+> **Paras** **Science** **Collage** **Kandiaro** **Sindh,** *F.* *Sc* *in* *Pre-Engineering*
 
 > Marks 1017/1100 (93.67%)
 >
