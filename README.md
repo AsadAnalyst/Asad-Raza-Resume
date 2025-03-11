@@ -9,7 +9,7 @@
 > \|](https://asad-raza.netlify.app/) [<u>www.asad-</u>
 > <u>raza.netlify.app/</u>](https://asad-raza.netlify.app/)
 >
-> **Professional** **Summary**
+ **Professional** **Summary**
 >
 > Computer Scientists with **hands-on** **experience**, skilled in
 > designing and implementing **scalable** **and** **efficient**
@@ -21,10 +21,10 @@
 > **exploring** **cutting-edge** **technologies** and delivering
 > high-quality solutions tailored to client needs.
 >
-> **Education**
+ **Education**
 
-**FAST** **National** **University** **of** **Computer&** **Emerging**
-**Science,** *B.S* *Computer* *Science* **Paras** **Science**
+> **FAST** **National** **University** **of** **Computer&** **Emerging**
+> **Science,** *B.S* *Computer* *Science* **Paras** **Science**
 **Collage** **Kandiaro** **Sindh,** *F.* *Sc* *in* *Pre-Engineering*
 
 > Marks 1017/1100 (93.67%)
@@ -38,7 +38,7 @@ Aug, 2020–Mar, 2022
 > Analysis, Software Engineering, Database Systems, Software for Mobile
 > Devices, Computer Network, Artificial Intelligence
 >
-> **Skills**
+ **Skills**
 >
 > **DesktopApp** **Development:** C++, C, C#, Python, Windows Form, .NET
 > Core
@@ -47,14 +47,14 @@ Aug, 2020–Mar, 2022
 > SQLite, MVC Architecture **Android** **Development:** Java, Git,
 > GitHub
 >
-> **Work** **Experience**
+ **Work** **Experience**
 >
 > I have practical skills in programming and Desktop Console
 > BasedApplication development from lab work. These proficiencies will
 > help me excel in future projects that require a strong command of
 > these languages
 >
-> **Selected** **Projects**
+ **Selected** **Projects**
 > [<u>(https://github.com/AsadAnalyst)</u>](https://github.com/AsadAnalyst)
 >
 > **Success** **Grammatic** **Dictionary** (Lead Backend Developer)
@@ -65,7 +65,7 @@ Aug, 2020–Mar, 2022
 > structures for efficient word storage and retrieval. The Trie Tree
 > enables fast searching, making it ideal for dictionary applications.
 
-**WhatsApp** **Clone** (Lead Frontend Developer)
+> **WhatsApp** **Clone** (Lead Frontend Developer)
 [<u>(GitHub)</u>](https://github.com/AsadAnalyst/WhatsApp-Clone)
 **WebRTC,** **Node.js,HTML,** **CSS** • Developed a Secure WhatsApp
 Clone using WebRTC, enabling direct communication without a centralized
@@ -99,12 +99,12 @@ Clone using WebRTC, enabling direct communication without a centralized
 > pricing, real-time inventory tracking, and personalized product
 > recommendations.
 >
-> **Awards** **&** **Honor**
+ **Awards** **&** **Honor**
 
-IBAUniversity **Silver** **Medal** **In** **Physics** **Science**
+> IBAUniversity **Silver** **Medal** **In** **Physics** **Science**
 **Exhibition** **2021** 2021
 
-BISE -Nawabshah **2nd** **Position** **in** **Nawabshah** **Division**
+> BISE -Nawabshah **2nd** **Position** **in** **Nawabshah** **Division**
 **(**Intermediate and Secondary 2022 Education
 
 > **Selected** **Blogs**
