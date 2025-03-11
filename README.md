@@ -2,7 +2,7 @@
 >
 > +92 314 5875110 [\|
 > <u>syed0055asad0@gmail.com</u>](mailto:syed0055asad0@gmail.com) [\|
-> <u>www.linkedin.com/in/syed-asad-raza</u>](http://www.linkedin.com/in/syed-asad-raza)
+> <u>www.linkedin.com/in/syed-asad-raza</u>](www.linkedin.com/in/syed-asad-raza-188421322)
 > [\|
 > <u>www.github.com/AsadAnalyst</u>](https://github.com/AsadAnalyst)[\|
 > <u>www.asad-raza.netlify.app/</u>](https://asad-raza.netlify.app/)
