@@ -25,13 +25,12 @@
 
 > **FAST** **National** **University** **of** **Computer&** **Emerging**
 > **Science,** *B.S* *Computer* *Science*
-> **Paras** **Science** **Collage** **Kandiaro** **Sindh,** *F.* *Sc* *in* *Pre-Engineering*
-
-> Marks 1017/1100 (93.67%)
 >
 > Aug, 2022 – Sep, 2026
-
-Aug, 2020–Mar, 2022
+> 
+> **Paras** **Science** **Collage** **Kandiaro** **Sindh,** *F.* *Sc* *in* *Pre-Engineering*
+> Marks 1017/1100 (93.67%)
+> Aug, 2020–Mar, 2022
 
 > **Relevant** **Coursework**: Object Oriented Programming, Data
 > Structures andAlgorithm, Operating System, Software Design and
