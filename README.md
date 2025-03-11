@@ -1,4 +1,4 @@
-> Asad Raza
+# Asad Raza
 >
 > +92 3145875110
 > [\|<u>syed0055asad0@gmail.co</u>](mailto:syed0055asad0@gmail.com)[<u>m</u>
@@ -123,7 +123,7 @@ Clone using WebRTC, enabling direct communication without a centralized
 > • TheseWords Make it Obvious that your text is written byAI [<u>(Blog
 > Link)</u>](https://medium.com/%40AsadAnalyst/these-words-make-it-obvious-that-your-text-is-written-by-ai-7d132e985617)
 >
-> **Hobbies** **&** **Interests**
+ **Hobbies** **&** **Interests**
 >
 > <img src="./yultfq5l.png"
 > style="width:0.19612in;height:0.20278in" /><img src="./euzqqfdi.png"
